@@ -15,9 +15,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Takever.Domain\Takever.Domain.csproj" />
-    <ProjectReference Include="..\Takever.Service.Interfaces\Takever.Service.Interfaces.csproj" />
-    <ProjectReference Include="..\Takever.Service\Takever.Service.csproj" />
+    <ProjectReference Include="..\Takever.Domain\ApiRest.Domain.csproj" />
+    <ProjectReference Include="..\Takever.Service.Interfaces\ApiRest.Service.Interfaces.csproj" />
+    <ProjectReference Include="..\Takever.Service\ApiRest.Service.csproj" />
   </ItemGroup>
 
 </Project>

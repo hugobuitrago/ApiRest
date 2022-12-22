@@ -9,7 +9,7 @@ using Takever.Infra.Data.Context;
 
 namespace Takever.Migrations
 {
-    [DbContext(typeof(Takever_Context))]
+    [DbContext(typeof(ApiRest_Context))]
     [Migration("20220805010416_Migration3")]
     partial class Migration3
     {

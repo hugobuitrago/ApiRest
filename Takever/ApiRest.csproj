@@ -21,11 +21,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Takever.DTO\Takever.DTO.csproj" />
-    <ProjectReference Include="..\Takever.Infra.Data.Interfaces\Takever.Infra.Data.Interfaces.csproj" />
-    <ProjectReference Include="..\Takever.Infra.Data\Takever.Infra.Data.csproj" />
-    <ProjectReference Include="..\Takever.Service.Interfaces\Takever.Service.Interfaces.csproj" />
-    <ProjectReference Include="..\Takever.Service\Takever.Service.csproj" />
+    <ProjectReference Include="..\Takever.DTO\ApiRest.DTO.csproj" />
+    <ProjectReference Include="..\Takever.Infra.Data.Interfaces\ApiRest.Infra.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\Takever.Infra.Data\ApiRest.Infra.Data.csproj" />
+    <ProjectReference Include="..\Takever.Service.Interfaces\ApiRest.Service.Interfaces.csproj" />
+    <ProjectReference Include="..\Takever.Service\ApiRest.Service.csproj" />
   </ItemGroup>
 
 </Project>

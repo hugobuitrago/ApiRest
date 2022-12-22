@@ -13,8 +13,8 @@ namespace Takever.Infra.Data.Repositories
 {
     public class TVShowRepository : ITVShowRepository
     {
-        readonly Takever_Context _context;
-        public TVShowRepository(Takever_Context context)
+        readonly ApiRest_Context _context;
+        public TVShowRepository(ApiRest_Context context)
         {
             _context = context;
         }

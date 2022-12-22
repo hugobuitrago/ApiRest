@@ -5,8 +5,8 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Takever.Domain\Takever.Domain.csproj" />
-    <ProjectReference Include="..\Takever.DTO\Takever.DTO.csproj" />
+    <ProjectReference Include="..\Takever.Domain\ApiRest.Domain.csproj" />
+    <ProjectReference Include="..\Takever.DTO\ApiRest.DTO.csproj" />
   </ItemGroup>
 
 </Project>

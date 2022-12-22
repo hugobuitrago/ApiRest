@@ -62,7 +62,7 @@ namespace Takever
                  };
              });
 
-            services.AddDbContext<Takever_Context>(opt => opt.UseSqlServer(Configuration.GetConnectionString("TakeverDB"), b => b.MigrationsAssembly("Takever")).EnableSensitiveDataLogging());
+            services.AddDbContext<ApiRest_Context>(opt => opt.UseSqlServer(Configuration.GetConnectionString("TakeverDB"), b => b.MigrationsAssembly("Takever")).EnableSensitiveDataLogging());
             services.AddTransient<IUserRepository, UserRepository>();
             services.AddTransient<ITVShowRepository, TVShowRepository>();
             services.AddScoped<IUserService, UserService>();

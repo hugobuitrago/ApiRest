@@ -8,7 +8,7 @@ using Takever.Infra.Data.Context;
 
 namespace Takever.Migrations
 {
-    [DbContext(typeof(Takever_Context))]
+    [DbContext(typeof(ApiRest_Context))]
     partial class Takever_ContextModelSnapshot : ModelSnapshot
     {
         protected override void BuildModel(ModelBuilder modelBuilder)

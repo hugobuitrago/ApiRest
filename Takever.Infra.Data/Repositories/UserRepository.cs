@@ -7,9 +7,9 @@ namespace Takever.Infra.Data.Repositories
 {
     public class UserRepository : IUserRepository
     {
-        readonly Takever_Context _context;
+        readonly ApiRest_Context _context;
 
-        public UserRepository(Takever_Context context)
+        public UserRepository(ApiRest_Context context)
         {
             _context = context;
         }

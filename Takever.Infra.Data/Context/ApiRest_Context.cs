@@ -9,9 +9,9 @@ using Takever.Domain.Entities;
 
 namespace Takever.Infra.Data.Context
 {
-    public class Takever_Context : DbContext
+    public class ApiRest_Context : DbContext
     {
-        public Takever_Context(DbContextOptions<Takever_Context> options) : base(options)
+        public ApiRest_Context(DbContextOptions<ApiRest_Context> options) : base(options)
         {
 
         }

@@ -12,8 +12,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Takever.Domain\Takever.Domain.csproj" />
-    <ProjectReference Include="..\Takever.Infra.Data.Interfaces\Takever.Infra.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\Takever.Domain\ApiRest.Domain.csproj" />
+    <ProjectReference Include="..\Takever.Infra.Data.Interfaces\ApiRest.Infra.Data.Interfaces.csproj" />
   </ItemGroup>
 
 </Project>

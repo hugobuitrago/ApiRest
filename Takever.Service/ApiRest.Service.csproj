@@ -10,8 +10,8 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\Takever.Infra.Data.Interfaces\Takever.Infra.Data.Interfaces.csproj" />
-    <ProjectReference Include="..\Takever.Service.Interfaces\Takever.Service.Interfaces.csproj" />
+    <ProjectReference Include="..\Takever.Infra.Data.Interfaces\ApiRest.Infra.Data.Interfaces.csproj" />
+    <ProjectReference Include="..\Takever.Service.Interfaces\ApiRest.Service.Interfaces.csproj" />
   </ItemGroup>
 
 </Project>
