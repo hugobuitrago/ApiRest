@@ -15,21 +15,21 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Infra", "Infra", "{115FACE6
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{695405C8-948C-4529-8D93-E236FD721889}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Domain", "..\Takever.Domain\ApiRest.Domain.csproj", "{07EDFD94-ADEA-429B-ABE4-62CBAD5EFA2D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Domain", "..\ApiRest.Domain\ApiRest.Domain.csproj", "{07EDFD94-ADEA-429B-ABE4-62CBAD5EFA2D}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.DTO", "..\Takever.DTO\ApiRest.DTO.csproj", "{32A9F8E0-EE3C-48EF-B5F5-ED0A5925048B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.DTO", "..\ApiRest.DTO\ApiRest.DTO.csproj", "{32A9F8E0-EE3C-48EF-B5F5-ED0A5925048B}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Data", "Data", "{0D63C669-D0D1-4F55-86C9-06D60659DE20}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Infra.Data", "..\Takever.Infra.Data\ApiRest.Infra.Data.csproj", "{3C5E9297-8D0E-4B31-8A20-30D02B23B07A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Infra.Data", "..\ApiRest.Infra.Data\ApiRest.Infra.Data.csproj", "{3C5E9297-8D0E-4B31-8A20-30D02B23B07A}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Infra.Data.Interfaces", "..\Takever.Infra.Data.Interfaces\ApiRest.Infra.Data.Interfaces.csproj", "{B6EBBAA4-0971-400F-BB53-43BD08A06501}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Infra.Data.Interfaces", "..\ApiRest.Infra.Data.Interfaces\ApiRest.Infra.Data.Interfaces.csproj", "{B6EBBAA4-0971-400F-BB53-43BD08A06501}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Service", "..\Takever.Service\ApiRest.Service.csproj", "{A0368E4A-5EBD-4253-870C-AF637D0E8303}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Service", "..\ApiRest.Service\ApiRest.Service.csproj", "{A0368E4A-5EBD-4253-870C-AF637D0E8303}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Service.Interfaces", "..\Takever.Service.Interfaces\ApiRest.Service.Interfaces.csproj", "{C685A775-C870-4F8D-9441-F571807C6863}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.Service.Interfaces", "..\ApiRest.Service.Interfaces\ApiRest.Service.Interfaces.csproj", "{C685A775-C870-4F8D-9441-F571807C6863}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.UnitTest", "..\Takever.UnitTest\ApiRest.UnitTest.csproj", "{C08135B9-ED04-43D3-B31D-16ADD1F2F03C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ApiRest.UnitTest", "..\ApiRest.UnitTest\ApiRest.UnitTest.csproj", "{C08135B9-ED04-43D3-B31D-16ADD1F2F03C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
